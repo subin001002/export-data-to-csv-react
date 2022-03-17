@@ -35,7 +35,7 @@ const headers = [
 ];
 
 const csvReport = {
-  filename: 'Report_cloth_classification.csv',
+  filename: 'cloth_classification.csv',
   headers: headers, 
   data: data,
 };
